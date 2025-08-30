@@ -2,8 +2,7 @@
 
 ## 🎯 Descripción
 
-Este repositorio contiene una serie de ejercicios prácticos diseñados para dominar el hook `useContext` de React. A través de estos ejercicios, aprenderás a compartir datos entre componentes sin necesidad de prop drilling, facilitando la gestión del estado global en aplicaciones React.
-
+Este repositorio contiene una serie de ejercicios prácticos diseñados para dominar el hook `useContext` de React.
 ## 📘 Objetivos de Aprendizaje
 
 - Comprender el propósito y funcionamiento del Context API en React.
